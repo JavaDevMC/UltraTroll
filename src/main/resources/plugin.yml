@@ -1,0 +1,10 @@
+name: UltraTroll
+version: 1.0
+api-version: 1.16
+author: MaximDe
+main: com.maximde.ultratroll.UltraTroll
+
+commands:
+  noleave:
+  crash:
+  lag:
